@@ -20,7 +20,7 @@ import { bootstrapApplication } from '@angular/platform-browser';
         <h3>Poste #1</h3>
       </header>
          <p>
-      
+         
          </p>
        </article>
     </section>
